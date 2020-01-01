@@ -9,5 +9,5 @@ console.log(let);
 let = {
     person: "Dmitry",
     age: 21,
-    haveaGirlFirend: true //edd
+    haveaGirlFirend: true
 }
