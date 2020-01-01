@@ -1,7 +1,13 @@
 let = {
     person: "Andrey",
     age: 21,
-    haveaGirlFirend: "no"
+    haveaGirlFirend: false
 }
 
 console.log(let);
+
+let = {
+    person: "Dmitry",
+    age: 21,
+    haveaGirlFirend: true //edd
+}
